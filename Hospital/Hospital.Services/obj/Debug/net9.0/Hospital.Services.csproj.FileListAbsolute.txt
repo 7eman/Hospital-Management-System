@@ -10,3 +10,25 @@ F:\ANGULAR\MVC_PROJECT\Hospital\Hospital.Services\obj\Debug\net9.0\refint\Hospit
 F:\ANGULAR\MVC_PROJECT\Hospital\Hospital.Services\obj\Debug\net9.0\Hospital.Services.pdb
 F:\ANGULAR\MVC_PROJECT\Hospital\Hospital.Services\obj\Debug\net9.0\ref\Hospital.Services.dll
 F:\ANGULAR\MVC_PROJECT\Hospital\Hospital.Services\obj\Debug\net9.0\Hospital.Services.sourcelink.json
+C:\Users\Shrouk Essam\OneDrive\ITI\MVCProject\Hospital-Management-System\Hospital\Hospital.Services\bin\Debug\net9.0\Hospital.Services.deps.json
+C:\Users\Shrouk Essam\OneDrive\ITI\MVCProject\Hospital-Management-System\Hospital\Hospital.Services\bin\Debug\net9.0\Hospital.Services.dll
+C:\Users\Shrouk Essam\OneDrive\ITI\MVCProject\Hospital-Management-System\Hospital\Hospital.Services\bin\Debug\net9.0\Hospital.Services.pdb
+C:\Users\Shrouk Essam\OneDrive\ITI\MVCProject\Hospital-Management-System\Hospital\Hospital.Services\obj\Debug\net9.0\Hospital.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shrouk Essam\OneDrive\ITI\MVCProject\Hospital-Management-System\Hospital\Hospital.Services\obj\Debug\net9.0\Hospital.Services.AssemblyInfoInputs.cache
+C:\Users\Shrouk Essam\OneDrive\ITI\MVCProject\Hospital-Management-System\Hospital\Hospital.Services\obj\Debug\net9.0\Hospital.Services.AssemblyInfo.cs
+C:\Users\Shrouk Essam\OneDrive\ITI\MVCProject\Hospital-Management-System\Hospital\Hospital.Services\obj\Debug\net9.0\Hospital.Services.csproj.CoreCompileInputs.cache
+C:\Users\Shrouk Essam\OneDrive\ITI\MVCProject\Hospital-Management-System\Hospital\Hospital.Services\obj\Debug\net9.0\Hospital.Services.sourcelink.json
+C:\Users\Shrouk Essam\OneDrive\ITI\MVCProject\Hospital-Management-System\Hospital\Hospital.Services\obj\Debug\net9.0\Hospital.Services.dll
+C:\Users\Shrouk Essam\OneDrive\ITI\MVCProject\Hospital-Management-System\Hospital\Hospital.Services\obj\Debug\net9.0\refint\Hospital.Services.dll
+C:\Users\Shrouk Essam\OneDrive\ITI\MVCProject\Hospital-Management-System\Hospital\Hospital.Services\obj\Debug\net9.0\Hospital.Services.pdb
+C:\Users\Shrouk Essam\OneDrive\ITI\MVCProject\Hospital-Management-System\Hospital\Hospital.Services\obj\Debug\net9.0\ref\Hospital.Services.dll
+C:\Users\Shrouk Essam\OneDrive\ITI\MVCProject\Hospital-Management-System\Hospital\Hospital.Services\bin\Debug\net9.0\Hospital.Models.dll
+C:\Users\Shrouk Essam\OneDrive\ITI\MVCProject\Hospital-Management-System\Hospital\Hospital.Services\bin\Debug\net9.0\Hospital.Repositories.dll
+C:\Users\Shrouk Essam\OneDrive\ITI\MVCProject\Hospital-Management-System\Hospital\Hospital.Services\bin\Debug\net9.0\Hospital.ViewModels.dll
+C:\Users\Shrouk Essam\OneDrive\ITI\MVCProject\Hospital-Management-System\Hospital\Hospital.Services\bin\Debug\net9.0\hospitals.Utilities.dll
+C:\Users\Shrouk Essam\OneDrive\ITI\MVCProject\Hospital-Management-System\Hospital\Hospital.Services\bin\Debug\net9.0\Hospital.ViewModels.pdb
+C:\Users\Shrouk Essam\OneDrive\ITI\MVCProject\Hospital-Management-System\Hospital\Hospital.Services\bin\Debug\net9.0\hospitals.Utilities.pdb
+C:\Users\Shrouk Essam\OneDrive\ITI\MVCProject\Hospital-Management-System\Hospital\Hospital.Services\bin\Debug\net9.0\Hospital.Models.pdb
+C:\Users\Shrouk Essam\OneDrive\ITI\MVCProject\Hospital-Management-System\Hospital\Hospital.Services\bin\Debug\net9.0\Hospital.Repositories.pdb
+C:\Users\Shrouk Essam\OneDrive\ITI\MVCProject\Hospital-Management-System\Hospital\Hospital.Services\obj\Debug\net9.0\Hospital.Services.csproj.AssemblyReference.cache
+C:\Users\Shrouk Essam\OneDrive\ITI\MVCProject\Hospital-Management-System\Hospital\Hospital.Services\obj\Debug\net9.0\Hospital.18A9D8D9.Up2Date

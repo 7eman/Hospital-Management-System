@@ -16,3 +16,21 @@ F:\ANGULAR\MVC_PROJECT\Hospital\hospitals.Utilities\obj\Debug\net9.0\refint\hosp
 F:\ANGULAR\MVC_PROJECT\Hospital\hospitals.Utilities\obj\Debug\net9.0\hospitals.Utilities.pdb
 F:\ANGULAR\MVC_PROJECT\Hospital\hospitals.Utilities\obj\Debug\net9.0\ref\hospitals.Utilities.dll
 F:\ANGULAR\MVC_PROJECT\Hospital\hospitals.Utilities\obj\Debug\net9.0\hospitals.Utilities.sourcelink.json
+C:\Users\Shrouk Essam\OneDrive\ITI\MVCProject\Hospital-Management-System\Hospital\hospitals.Utilities\bin\Debug\net9.0\hospitals.Utilities.deps.json
+C:\Users\Shrouk Essam\OneDrive\ITI\MVCProject\Hospital-Management-System\Hospital\hospitals.Utilities\bin\Debug\net9.0\hospitals.Utilities.dll
+C:\Users\Shrouk Essam\OneDrive\ITI\MVCProject\Hospital-Management-System\Hospital\hospitals.Utilities\bin\Debug\net9.0\hospitals.Utilities.pdb
+C:\Users\Shrouk Essam\OneDrive\ITI\MVCProject\Hospital-Management-System\Hospital\hospitals.Utilities\bin\Debug\net9.0\Hospital.Models.dll
+C:\Users\Shrouk Essam\OneDrive\ITI\MVCProject\Hospital-Management-System\Hospital\hospitals.Utilities\bin\Debug\net9.0\Hospital.Repositories.dll
+C:\Users\Shrouk Essam\OneDrive\ITI\MVCProject\Hospital-Management-System\Hospital\hospitals.Utilities\bin\Debug\net9.0\Hospital.Models.pdb
+C:\Users\Shrouk Essam\OneDrive\ITI\MVCProject\Hospital-Management-System\Hospital\hospitals.Utilities\bin\Debug\net9.0\Hospital.Repositories.pdb
+C:\Users\Shrouk Essam\OneDrive\ITI\MVCProject\Hospital-Management-System\Hospital\hospitals.Utilities\obj\Debug\net9.0\hospitals.Utilities.csproj.AssemblyReference.cache
+C:\Users\Shrouk Essam\OneDrive\ITI\MVCProject\Hospital-Management-System\Hospital\hospitals.Utilities\obj\Debug\net9.0\hospitals.Utilities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shrouk Essam\OneDrive\ITI\MVCProject\Hospital-Management-System\Hospital\hospitals.Utilities\obj\Debug\net9.0\hospitals.Utilities.AssemblyInfoInputs.cache
+C:\Users\Shrouk Essam\OneDrive\ITI\MVCProject\Hospital-Management-System\Hospital\hospitals.Utilities\obj\Debug\net9.0\hospitals.Utilities.AssemblyInfo.cs
+C:\Users\Shrouk Essam\OneDrive\ITI\MVCProject\Hospital-Management-System\Hospital\hospitals.Utilities\obj\Debug\net9.0\hospitals.Utilities.csproj.CoreCompileInputs.cache
+C:\Users\Shrouk Essam\OneDrive\ITI\MVCProject\Hospital-Management-System\Hospital\hospitals.Utilities\obj\Debug\net9.0\hospitals.Utilities.sourcelink.json
+C:\Users\Shrouk Essam\OneDrive\ITI\MVCProject\Hospital-Management-System\Hospital\hospitals.Utilities\obj\Debug\net9.0\hospital.1CF31134.Up2Date
+C:\Users\Shrouk Essam\OneDrive\ITI\MVCProject\Hospital-Management-System\Hospital\hospitals.Utilities\obj\Debug\net9.0\hospitals.Utilities.dll
+C:\Users\Shrouk Essam\OneDrive\ITI\MVCProject\Hospital-Management-System\Hospital\hospitals.Utilities\obj\Debug\net9.0\refint\hospitals.Utilities.dll
+C:\Users\Shrouk Essam\OneDrive\ITI\MVCProject\Hospital-Management-System\Hospital\hospitals.Utilities\obj\Debug\net9.0\hospitals.Utilities.pdb
+C:\Users\Shrouk Essam\OneDrive\ITI\MVCProject\Hospital-Management-System\Hospital\hospitals.Utilities\obj\Debug\net9.0\ref\hospitals.Utilities.dll
