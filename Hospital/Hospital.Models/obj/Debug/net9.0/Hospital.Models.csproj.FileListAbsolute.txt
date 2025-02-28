@@ -1,0 +1,14 @@
+F:\ANGULAR\MVC_PROJECT\Hospital\Hospital.Models\bin\Debug\net9.0\Hospital.Models.deps.json
+F:\ANGULAR\MVC_PROJECT\Hospital\Hospital.Models\bin\Debug\net9.0\Hospital.Models.runtimeconfig.json
+F:\ANGULAR\MVC_PROJECT\Hospital\Hospital.Models\bin\Debug\net9.0\Hospital.Models.dll
+F:\ANGULAR\MVC_PROJECT\Hospital\Hospital.Models\bin\Debug\net9.0\Hospital.Models.pdb
+F:\ANGULAR\MVC_PROJECT\Hospital\Hospital.Models\obj\Debug\net9.0\Hospital.Models.csproj.AssemblyReference.cache
+F:\ANGULAR\MVC_PROJECT\Hospital\Hospital.Models\obj\Debug\net9.0\Hospital.Models.GeneratedMSBuildEditorConfig.editorconfig
+F:\ANGULAR\MVC_PROJECT\Hospital\Hospital.Models\obj\Debug\net9.0\Hospital.Models.AssemblyInfoInputs.cache
+F:\ANGULAR\MVC_PROJECT\Hospital\Hospital.Models\obj\Debug\net9.0\Hospital.Models.AssemblyInfo.cs
+F:\ANGULAR\MVC_PROJECT\Hospital\Hospital.Models\obj\Debug\net9.0\Hospital.Models.csproj.CoreCompileInputs.cache
+F:\ANGULAR\MVC_PROJECT\Hospital\Hospital.Models\obj\Debug\net9.0\Hospital.Models.dll
+F:\ANGULAR\MVC_PROJECT\Hospital\Hospital.Models\obj\Debug\net9.0\refint\Hospital.Models.dll
+F:\ANGULAR\MVC_PROJECT\Hospital\Hospital.Models\obj\Debug\net9.0\Hospital.Models.pdb
+F:\ANGULAR\MVC_PROJECT\Hospital\Hospital.Models\obj\Debug\net9.0\Hospital.Models.genruntimeconfig.cache
+F:\ANGULAR\MVC_PROJECT\Hospital\Hospital.Models\obj\Debug\net9.0\ref\Hospital.Models.dll

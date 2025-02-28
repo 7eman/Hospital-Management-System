@@ -1,0 +1,17 @@
+F:\ANGULAR\MVC_PROJECT\Hospital\Hospital.Repositories\bin\Debug\net9.0\Hospital.Repositories.deps.json
+F:\ANGULAR\MVC_PROJECT\Hospital\Hospital.Repositories\bin\Debug\net9.0\Hospital.Repositories.runtimeconfig.json
+F:\ANGULAR\MVC_PROJECT\Hospital\Hospital.Repositories\bin\Debug\net9.0\Hospital.Repositories.dll
+F:\ANGULAR\MVC_PROJECT\Hospital\Hospital.Repositories\bin\Debug\net9.0\Hospital.Repositories.pdb
+F:\ANGULAR\MVC_PROJECT\Hospital\Hospital.Repositories\bin\Debug\net9.0\Hospital.Models.dll
+F:\ANGULAR\MVC_PROJECT\Hospital\Hospital.Repositories\bin\Debug\net9.0\Hospital.Models.pdb
+F:\ANGULAR\MVC_PROJECT\Hospital\Hospital.Repositories\obj\Debug\net9.0\Hospital.Repositories.csproj.AssemblyReference.cache
+F:\ANGULAR\MVC_PROJECT\Hospital\Hospital.Repositories\obj\Debug\net9.0\Hospital.Repositories.GeneratedMSBuildEditorConfig.editorconfig
+F:\ANGULAR\MVC_PROJECT\Hospital\Hospital.Repositories\obj\Debug\net9.0\Hospital.Repositories.AssemblyInfoInputs.cache
+F:\ANGULAR\MVC_PROJECT\Hospital\Hospital.Repositories\obj\Debug\net9.0\Hospital.Repositories.AssemblyInfo.cs
+F:\ANGULAR\MVC_PROJECT\Hospital\Hospital.Repositories\obj\Debug\net9.0\Hospital.Repositories.csproj.CoreCompileInputs.cache
+F:\ANGULAR\MVC_PROJECT\Hospital\Hospital.Repositories\obj\Debug\net9.0\Hospital.043409E1.Up2Date
+F:\ANGULAR\MVC_PROJECT\Hospital\Hospital.Repositories\obj\Debug\net9.0\Hospital.Repositories.dll
+F:\ANGULAR\MVC_PROJECT\Hospital\Hospital.Repositories\obj\Debug\net9.0\refint\Hospital.Repositories.dll
+F:\ANGULAR\MVC_PROJECT\Hospital\Hospital.Repositories\obj\Debug\net9.0\Hospital.Repositories.pdb
+F:\ANGULAR\MVC_PROJECT\Hospital\Hospital.Repositories\obj\Debug\net9.0\Hospital.Repositories.genruntimeconfig.cache
+F:\ANGULAR\MVC_PROJECT\Hospital\Hospital.Repositories\obj\Debug\net9.0\ref\Hospital.Repositories.dll
