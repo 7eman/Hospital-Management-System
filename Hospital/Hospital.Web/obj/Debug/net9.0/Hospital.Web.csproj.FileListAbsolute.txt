@@ -348,4 +348,11 @@ F:\ANGULAR\MVC_PROJECT\Hospital\Hospital.Web\obj\Debug\net9.0\refint\Hospital.We
 F:\ANGULAR\MVC_PROJECT\Hospital\Hospital.Web\obj\Debug\net9.0\Hospital.Web.pdb
 F:\ANGULAR\MVC_PROJECT\Hospital\Hospital.Web\obj\Debug\net9.0\Hospital.Web.genruntimeconfig.cache
 F:\ANGULAR\MVC_PROJECT\Hospital\Hospital.Web\obj\Debug\net9.0\ref\Hospital.Web.dll
+F:\ANGULAR\MVC_PROJECT\Hospital\Hospital.Web\bin\Debug\net9.0\Microsoft.Extensions.Configuration.dll
+F:\ANGULAR\MVC_PROJECT\Hospital\Hospital.Web\obj\Debug\net9.0\Hospital.Web.sourcelink.json
 F:\ANGULAR\MVC_PROJECT\Hospital\Hospital.Web\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+F:\ANGULAR\MVC_PROJECT\Hospital\Hospital.Web\bin\Debug\net9.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+F:\ANGULAR\MVC_PROJECT\Hospital\Hospital.Web\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Json.dll
+F:\ANGULAR\MVC_PROJECT\Hospital\Hospital.Web\bin\Debug\net9.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+F:\ANGULAR\MVC_PROJECT\Hospital\Hospital.Web\bin\Debug\net9.0\Microsoft.Extensions.FileProviders.Physical.dll
+F:\ANGULAR\MVC_PROJECT\Hospital\Hospital.Web\bin\Debug\net9.0\Microsoft.Extensions.FileSystemGlobbing.dll

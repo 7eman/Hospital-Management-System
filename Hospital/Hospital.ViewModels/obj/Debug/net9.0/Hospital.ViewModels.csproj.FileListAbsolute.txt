@@ -9,3 +9,4 @@ F:\ANGULAR\MVC_PROJECT\Hospital\Hospital.ViewModels\obj\Debug\net9.0\Hospital.Vi
 F:\ANGULAR\MVC_PROJECT\Hospital\Hospital.ViewModels\obj\Debug\net9.0\refint\Hospital.ViewModels.dll
 F:\ANGULAR\MVC_PROJECT\Hospital\Hospital.ViewModels\obj\Debug\net9.0\Hospital.ViewModels.pdb
 F:\ANGULAR\MVC_PROJECT\Hospital\Hospital.ViewModels\obj\Debug\net9.0\ref\Hospital.ViewModels.dll
+F:\ANGULAR\MVC_PROJECT\Hospital\Hospital.ViewModels\obj\Debug\net9.0\Hospital.ViewModels.sourcelink.json
