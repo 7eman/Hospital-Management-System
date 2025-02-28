@@ -15,3 +15,4 @@ F:\ANGULAR\MVC_PROJECT\Hospital\hospitals.Utilities\obj\Debug\net9.0\hospitals.U
 F:\ANGULAR\MVC_PROJECT\Hospital\hospitals.Utilities\obj\Debug\net9.0\refint\hospitals.Utilities.dll
 F:\ANGULAR\MVC_PROJECT\Hospital\hospitals.Utilities\obj\Debug\net9.0\hospitals.Utilities.pdb
 F:\ANGULAR\MVC_PROJECT\Hospital\hospitals.Utilities\obj\Debug\net9.0\ref\hospitals.Utilities.dll
+F:\ANGULAR\MVC_PROJECT\Hospital\hospitals.Utilities\obj\Debug\net9.0\hospitals.Utilities.sourcelink.json

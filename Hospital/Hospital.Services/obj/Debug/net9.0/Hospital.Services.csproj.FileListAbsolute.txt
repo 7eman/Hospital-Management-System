@@ -9,3 +9,4 @@ F:\ANGULAR\MVC_PROJECT\Hospital\Hospital.Services\obj\Debug\net9.0\Hospital.Serv
 F:\ANGULAR\MVC_PROJECT\Hospital\Hospital.Services\obj\Debug\net9.0\refint\Hospital.Services.dll
 F:\ANGULAR\MVC_PROJECT\Hospital\Hospital.Services\obj\Debug\net9.0\Hospital.Services.pdb
 F:\ANGULAR\MVC_PROJECT\Hospital\Hospital.Services\obj\Debug\net9.0\ref\Hospital.Services.dll
+F:\ANGULAR\MVC_PROJECT\Hospital\Hospital.Services\obj\Debug\net9.0\Hospital.Services.sourcelink.json

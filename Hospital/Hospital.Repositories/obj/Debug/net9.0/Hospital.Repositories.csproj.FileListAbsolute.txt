@@ -15,3 +15,4 @@ F:\ANGULAR\MVC_PROJECT\Hospital\Hospital.Repositories\obj\Debug\net9.0\refint\Ho
 F:\ANGULAR\MVC_PROJECT\Hospital\Hospital.Repositories\obj\Debug\net9.0\Hospital.Repositories.pdb
 F:\ANGULAR\MVC_PROJECT\Hospital\Hospital.Repositories\obj\Debug\net9.0\Hospital.Repositories.genruntimeconfig.cache
 F:\ANGULAR\MVC_PROJECT\Hospital\Hospital.Repositories\obj\Debug\net9.0\ref\Hospital.Repositories.dll
+F:\ANGULAR\MVC_PROJECT\Hospital\Hospital.Repositories\obj\Debug\net9.0\Hospital.Repositories.sourcelink.json

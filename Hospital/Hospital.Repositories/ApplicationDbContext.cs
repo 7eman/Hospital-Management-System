@@ -11,9 +11,11 @@ using System.Threading.Tasks;
 
 namespace Hospital.Repositories
 {
-    public class ApplicationDbContext : IdentityDbContext
+    public class ApplicationDbContext : IdentityDbContext<ApplicationUser>
     {
         public ApplicationDbContext(DbContextOptions<ApplicationDbContext> options) : base(options) { }
+        public ApplicationDbContext() { }
+
         public DbSet<ApplicationUser> ApplicationUsers { get; set; }
     }
 
