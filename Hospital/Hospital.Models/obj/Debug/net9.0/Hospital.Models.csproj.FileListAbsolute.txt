@@ -13,3 +13,18 @@ F:\ANGULAR\MVC_PROJECT\Hospital\Hospital.Models\obj\Debug\net9.0\Hospital.Models
 F:\ANGULAR\MVC_PROJECT\Hospital\Hospital.Models\obj\Debug\net9.0\Hospital.Models.genruntimeconfig.cache
 F:\ANGULAR\MVC_PROJECT\Hospital\Hospital.Models\obj\Debug\net9.0\ref\Hospital.Models.dll
 F:\ANGULAR\MVC_PROJECT\Hospital\Hospital.Models\obj\Debug\net9.0\Hospital.Models.sourcelink.json
+C:\Users\Shrouk Essam\OneDrive\ITI\MVCProject\Hospital-Management-System\Hospital\Hospital.Models\bin\Debug\net9.0\Hospital.Models.deps.json
+C:\Users\Shrouk Essam\OneDrive\ITI\MVCProject\Hospital-Management-System\Hospital\Hospital.Models\bin\Debug\net9.0\Hospital.Models.runtimeconfig.json
+C:\Users\Shrouk Essam\OneDrive\ITI\MVCProject\Hospital-Management-System\Hospital\Hospital.Models\bin\Debug\net9.0\Hospital.Models.dll
+C:\Users\Shrouk Essam\OneDrive\ITI\MVCProject\Hospital-Management-System\Hospital\Hospital.Models\bin\Debug\net9.0\Hospital.Models.pdb
+C:\Users\Shrouk Essam\OneDrive\ITI\MVCProject\Hospital-Management-System\Hospital\Hospital.Models\obj\Debug\net9.0\Hospital.Models.csproj.AssemblyReference.cache
+C:\Users\Shrouk Essam\OneDrive\ITI\MVCProject\Hospital-Management-System\Hospital\Hospital.Models\obj\Debug\net9.0\Hospital.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shrouk Essam\OneDrive\ITI\MVCProject\Hospital-Management-System\Hospital\Hospital.Models\obj\Debug\net9.0\Hospital.Models.AssemblyInfoInputs.cache
+C:\Users\Shrouk Essam\OneDrive\ITI\MVCProject\Hospital-Management-System\Hospital\Hospital.Models\obj\Debug\net9.0\Hospital.Models.AssemblyInfo.cs
+C:\Users\Shrouk Essam\OneDrive\ITI\MVCProject\Hospital-Management-System\Hospital\Hospital.Models\obj\Debug\net9.0\Hospital.Models.csproj.CoreCompileInputs.cache
+C:\Users\Shrouk Essam\OneDrive\ITI\MVCProject\Hospital-Management-System\Hospital\Hospital.Models\obj\Debug\net9.0\Hospital.Models.sourcelink.json
+C:\Users\Shrouk Essam\OneDrive\ITI\MVCProject\Hospital-Management-System\Hospital\Hospital.Models\obj\Debug\net9.0\Hospital.Models.dll
+C:\Users\Shrouk Essam\OneDrive\ITI\MVCProject\Hospital-Management-System\Hospital\Hospital.Models\obj\Debug\net9.0\refint\Hospital.Models.dll
+C:\Users\Shrouk Essam\OneDrive\ITI\MVCProject\Hospital-Management-System\Hospital\Hospital.Models\obj\Debug\net9.0\Hospital.Models.pdb
+C:\Users\Shrouk Essam\OneDrive\ITI\MVCProject\Hospital-Management-System\Hospital\Hospital.Models\obj\Debug\net9.0\Hospital.Models.genruntimeconfig.cache
+C:\Users\Shrouk Essam\OneDrive\ITI\MVCProject\Hospital-Management-System\Hospital\Hospital.Models\obj\Debug\net9.0\ref\Hospital.Models.dll

@@ -1,65 +1,85 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "F:\\ANGULAR\\MVC_PROJECT\\Hospital\\",
+  "WorkspaceRootPath": "C:\\Users\\Shrouk Essam\\OneDrive\\ITI\\MVCProject\\Hospital-Management-System\\Hospital\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A37C3E2F-26A7-4D0D-8D9A-01F79811899C}|Hospital.Repositories\\Hospital.Repositories.csproj|f:\\angular\\mvc_project\\hospital\\hospital.repositories\\applicationdbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A37C3E2F-26A7-4D0D-8D9A-01F79811899C}|Hospital.Repositories\\Hospital.Repositories.csproj|solutionrelative:hospital.repositories\\applicationdbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AD2BD73A-70CE-4A2C-8525-622AB48DD592}|Hospital.Models\\Hospital.Models.csproj|c:\\users\\shrouk essam\\onedrive\\iti\\mvcproject\\hospital-management-system\\hospital\\hospital.models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD2BD73A-70CE-4A2C-8525-622AB48DD592}|Hospital.Models\\Hospital.Models.csproj|solutionrelative:hospital.models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{67881924-849A-4237-970D-16B4AF72B932}|Hospital.Web\\Hospital.Web.csproj|f:\\angular\\mvc_project\\hospital\\hospital.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{67881924-849A-4237-970D-16B4AF72B932}|Hospital.Web\\Hospital.Web.csproj|solutionrelative:hospital.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A37C3E2F-26A7-4D0D-8D9A-01F79811899C}|Hospital.Repositories\\Hospital.Repositories.csproj|f:\\angular\\mvc_project\\hospital\\hospital.repositories\\migrations\\20250228144345_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A37C3E2F-26A7-4D0D-8D9A-01F79811899C}|Hospital.Repositories\\Hospital.Repositories.csproj|solutionrelative:hospital.repositories\\migrations\\20250228144345_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A37C3E2F-26A7-4D0D-8D9A-01F79811899C}|Hospital.Repositories\\Hospital.Repositories.csproj|f:\\angular\\mvc_project\\hospital\\hospital.repositories\\hospital.repositories.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{A37C3E2F-26A7-4D0D-8D9A-01F79811899C}|Hospital.Repositories\\Hospital.Repositories.csproj|solutionrelative:hospital.repositories\\hospital.repositories.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A37C3E2F-26A7-4D0D-8D9A-01F79811899C}|Hospital.Repositories\\Hospital.Repositories.csproj|f:\\angular\\mvc_project\\hospital\\hospital.repositories\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A37C3E2F-26A7-4D0D-8D9A-01F79811899C}|Hospital.Repositories\\Hospital.Repositories.csproj|c:\\users\\shrouk essam\\onedrive\\iti\\mvcproject\\hospital-management-system\\hospital\\hospital.repositories\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A37C3E2F-26A7-4D0D-8D9A-01F79811899C}|Hospital.Repositories\\Hospital.Repositories.csproj|solutionrelative:hospital.repositories\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{525C8C7C-0EB8-461C-B3E1-02A4CE0785FA}|hospitals.Utilities\\hospitals.Utilities.csproj|f:\\angular\\mvc_project\\hospital\\hospitals.utilities\\dbinitiliazer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{525C8C7C-0EB8-461C-B3E1-02A4CE0785FA}|hospitals.Utilities\\hospitals.Utilities.csproj|solutionrelative:hospitals.utilities\\dbinitiliazer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AD2BD73A-70CE-4A2C-8525-622AB48DD592}|Hospital.Models\\Hospital.Models.csproj|c:\\users\\shrouk essam\\onedrive\\iti\\mvcproject\\hospital-management-system\\hospital\\hospital.models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD2BD73A-70CE-4A2C-8525-622AB48DD592}|Hospital.Models\\Hospital.Models.csproj|solutionrelative:hospital.models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{67881924-849A-4237-970D-16B4AF72B932}|Hospital.Web\\Hospital.Web.csproj|f:\\angular\\mvc_project\\hospital\\hospital.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{67881924-849A-4237-970D-16B4AF72B932}|Hospital.Web\\Hospital.Web.csproj|solutionrelative:hospital.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{67881924-849A-4237-970D-16B4AF72B932}|Hospital.Web\\Hospital.Web.csproj|c:\\users\\shrouk essam\\onedrive\\iti\\mvcproject\\hospital-management-system\\hospital\\hospital.web\\areas\\admin\\controllers\\hospitalscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67881924-849A-4237-970D-16B4AF72B932}|Hospital.Web\\Hospital.Web.csproj|solutionrelative:hospital.web\\areas\\admin\\controllers\\hospitalscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{67881924-849A-4237-970D-16B4AF72B932}|Hospital.Web\\Hospital.Web.csproj|f:\\angular\\mvc_project\\hospital\\hospital.web\\hospital.web.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{67881924-849A-4237-970D-16B4AF72B932}|Hospital.Web\\Hospital.Web.csproj|solutionrelative:hospital.web\\hospital.web.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{39A957D2-A1BF-474F-B753-45D47F2D9007}|Hospital.Services\\Hospital.Services.csproj|c:\\users\\shrouk essam\\onedrive\\iti\\mvcproject\\hospital-management-system\\hospital\\hospital.services\\hospitalinfoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39A957D2-A1BF-474F-B753-45D47F2D9007}|Hospital.Services\\Hospital.Services.csproj|solutionrelative:hospital.services\\hospitalinfoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{67881924-849A-4237-970D-16B4AF72B932}|Hospital.Web\\Hospital.Web.csproj|f:\\angular\\mvc_project\\hospital\\hospital.web\\areas\\patient\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{67881924-849A-4237-970D-16B4AF72B932}|Hospital.Web\\Hospital.Web.csproj|solutionrelative:hospital.web\\areas\\patient\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{39A957D2-A1BF-474F-B753-45D47F2D9007}|Hospital.Services\\Hospital.Services.csproj|c:\\users\\shrouk essam\\onedrive\\iti\\mvcproject\\hospital-management-system\\hospital\\hospital.services\\ihospitalinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39A957D2-A1BF-474F-B753-45D47F2D9007}|Hospital.Services\\Hospital.Services.csproj|solutionrelative:hospital.services\\ihospitalinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{67881924-849A-4237-970D-16B4AF72B932}|Hospital.Web\\Hospital.Web.csproj|f:\\angular\\mvc_project\\hospital\\hospital.web\\areas\\patient\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{67881924-849A-4237-970D-16B4AF72B932}|Hospital.Web\\Hospital.Web.csproj|solutionrelative:hospital.web\\areas\\patient\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EB87AEE3-69FC-4A46-AF10-4FB1AC8318BE}|Hospital.ViewModels\\Hospital.ViewModels.csproj|c:\\users\\shrouk essam\\onedrive\\iti\\mvcproject\\hospital-management-system\\hospital\\hospital.viewmodels\\hospitalinfoviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB87AEE3-69FC-4A46-AF10-4FB1AC8318BE}|Hospital.ViewModels\\Hospital.ViewModels.csproj|solutionrelative:hospital.viewmodels\\hospitalinfoviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{67881924-849A-4237-970D-16B4AF72B932}|Hospital.Web\\Hospital.Web.csproj|f:\\angular\\mvc_project\\hospital\\hospital.web\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{67881924-849A-4237-970D-16B4AF72B932}|Hospital.Web\\Hospital.Web.csproj|solutionrelative:hospital.web\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A37C3E2F-26A7-4D0D-8D9A-01F79811899C}|Hospital.Repositories\\Hospital.Repositories.csproj|f:\\angular\\mvc_project\\hospital\\hospital.repositories\\implementation\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A37C3E2F-26A7-4D0D-8D9A-01F79811899C}|Hospital.Repositories\\Hospital.Repositories.csproj|solutionrelative:hospital.repositories\\implementation\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A37C3E2F-26A7-4D0D-8D9A-01F79811899C}|Hospital.Repositories\\Hospital.Repositories.csproj|f:\\angular\\mvc_project\\hospital\\hospital.repositories\\interfaces\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A37C3E2F-26A7-4D0D-8D9A-01F79811899C}|Hospital.Repositories\\Hospital.Repositories.csproj|c:\\users\\shrouk essam\\onedrive\\iti\\mvcproject\\hospital-management-system\\hospital\\hospital.repositories\\interfaces\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A37C3E2F-26A7-4D0D-8D9A-01F79811899C}|Hospital.Repositories\\Hospital.Repositories.csproj|solutionrelative:hospital.repositories\\interfaces\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A37C3E2F-26A7-4D0D-8D9A-01F79811899C}|Hospital.Repositories\\Hospital.Repositories.csproj|f:\\angular\\mvc_project\\hospital\\hospital.repositories\\interfaces\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{67881924-849A-4237-970D-16B4AF72B932}|Hospital.Web\\Hospital.Web.csproj|c:\\users\\shrouk essam\\onedrive\\iti\\mvcproject\\hospital-management-system\\hospital\\hospital.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67881924-849A-4237-970D-16B4AF72B932}|Hospital.Web\\Hospital.Web.csproj|solutionrelative:hospital.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{525C8C7C-0EB8-461C-B3E1-02A4CE0785FA}|hospitals.Utilities\\hospitals.Utilities.csproj|c:\\users\\shrouk essam\\onedrive\\iti\\mvcproject\\hospital-management-system\\hospital\\hospitals.utilities\\emailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{525C8C7C-0EB8-461C-B3E1-02A4CE0785FA}|hospitals.Utilities\\hospitals.Utilities.csproj|solutionrelative:hospitals.utilities\\emailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{525C8C7C-0EB8-461C-B3E1-02A4CE0785FA}|hospitals.Utilities\\hospitals.Utilities.csproj|c:\\users\\shrouk essam\\onedrive\\iti\\mvcproject\\hospital-management-system\\hospital\\hospitals.utilities\\dbinitiliazer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{525C8C7C-0EB8-461C-B3E1-02A4CE0785FA}|hospitals.Utilities\\hospitals.Utilities.csproj|solutionrelative:hospitals.utilities\\dbinitiliazer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67881924-849A-4237-970D-16B4AF72B932}|Hospital.Web\\Hospital.Web.csproj|c:\\users\\shrouk essam\\onedrive\\iti\\mvcproject\\hospital-management-system\\hospital\\hospital.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{67881924-849A-4237-970D-16B4AF72B932}|Hospital.Web\\Hospital.Web.csproj|solutionrelative:hospital.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67881924-849A-4237-970D-16B4AF72B932}|Hospital.Web\\Hospital.Web.csproj|c:\\users\\shrouk essam\\onedrive\\iti\\mvcproject\\hospital-management-system\\hospital\\hospital.web\\areas\\patient\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67881924-849A-4237-970D-16B4AF72B932}|Hospital.Web\\Hospital.Web.csproj|solutionrelative:hospital.web\\areas\\patient\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67881924-849A-4237-970D-16B4AF72B932}|Hospital.Web\\Hospital.Web.csproj|c:\\users\\shrouk essam\\onedrive\\iti\\mvcproject\\hospital-management-system\\hospital\\hospital.web\\areas\\patient\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{67881924-849A-4237-970D-16B4AF72B932}|Hospital.Web\\Hospital.Web.csproj|solutionrelative:hospital.web\\areas\\patient\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A37C3E2F-26A7-4D0D-8D9A-01F79811899C}|Hospital.Repositories\\Hospital.Repositories.csproj|c:\\users\\shrouk essam\\onedrive\\iti\\mvcproject\\hospital-management-system\\hospital\\hospital.repositories\\hospital.repositories.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A37C3E2F-26A7-4D0D-8D9A-01F79811899C}|Hospital.Repositories\\Hospital.Repositories.csproj|solutionrelative:hospital.repositories\\hospital.repositories.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67881924-849A-4237-970D-16B4AF72B932}|Hospital.Web\\Hospital.Web.csproj|c:\\users\\shrouk essam\\onedrive\\iti\\mvcproject\\hospital-management-system\\hospital\\hospital.web\\hospital.web.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{67881924-849A-4237-970D-16B4AF72B932}|Hospital.Web\\Hospital.Web.csproj|solutionrelative:hospital.web\\hospital.web.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67881924-849A-4237-970D-16B4AF72B932}|Hospital.Web\\Hospital.Web.csproj|c:\\users\\shrouk essam\\onedrive\\iti\\mvcproject\\hospital-management-system\\hospital\\hospital.web\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{67881924-849A-4237-970D-16B4AF72B932}|Hospital.Web\\Hospital.Web.csproj|solutionrelative:hospital.web\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A37C3E2F-26A7-4D0D-8D9A-01F79811899C}|Hospital.Repositories\\Hospital.Repositories.csproj|c:\\users\\shrouk essam\\onedrive\\iti\\mvcproject\\hospital-management-system\\hospital\\hospital.repositories\\implementation\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A37C3E2F-26A7-4D0D-8D9A-01F79811899C}|Hospital.Repositories\\Hospital.Repositories.csproj|solutionrelative:hospital.repositories\\implementation\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A37C3E2F-26A7-4D0D-8D9A-01F79811899C}|Hospital.Repositories\\Hospital.Repositories.csproj|c:\\users\\shrouk essam\\onedrive\\iti\\mvcproject\\hospital-management-system\\hospital\\hospital.repositories\\interfaces\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A37C3E2F-26A7-4D0D-8D9A-01F79811899C}|Hospital.Repositories\\Hospital.Repositories.csproj|solutionrelative:hospital.repositories\\interfaces\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A37C3E2F-26A7-4D0D-8D9A-01F79811899C}|Hospital.Repositories\\Hospital.Repositories.csproj|f:\\angular\\mvc_project\\hospital\\hospital.repositories\\implementation\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A37C3E2F-26A7-4D0D-8D9A-01F79811899C}|Hospital.Repositories\\Hospital.Repositories.csproj|c:\\users\\shrouk essam\\onedrive\\iti\\mvcproject\\hospital-management-system\\hospital\\hospital.repositories\\implementation\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A37C3E2F-26A7-4D0D-8D9A-01F79811899C}|Hospital.Repositories\\Hospital.Repositories.csproj|solutionrelative:hospital.repositories\\implementation\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -70,123 +90,190 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 1,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "20250228144345_Initial.cs",
-              "DocumentMoniker": "F:\\ANGULAR\\MVC_PROJECT\\Hospital\\Hospital.Repositories\\Migrations\\20250228144345_Initial.cs",
-              "RelativeDocumentMoniker": "Hospital.Repositories\\Migrations\\20250228144345_Initial.cs",
-              "ToolTip": "F:\\ANGULAR\\MVC_PROJECT\\Hospital\\Hospital.Repositories\\Migrations\\20250228144345_Initial.cs",
-              "RelativeToolTip": "Hospital.Repositories\\Migrations\\20250228144345_Initial.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "Department.cs",
+              "DocumentMoniker": "C:\\Users\\Shrouk Essam\\OneDrive\\ITI\\MVCProject\\Hospital-Management-System\\Hospital\\Hospital.Models\\Department.cs",
+              "RelativeDocumentMoniker": "Hospital.Models\\Department.cs",
+              "ToolTip": "C:\\Users\\Shrouk Essam\\OneDrive\\ITI\\MVCProject\\Hospital-Management-System\\Hospital\\Hospital.Models\\Department.cs",
+              "RelativeToolTip": "Hospital.Models\\Department.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-28T14:43:46.397Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "F:\\ANGULAR\\MVC_PROJECT\\Hospital\\Hospital.Web\\appsettings.json",
-              "RelativeDocumentMoniker": "Hospital.Web\\appsettings.json",
-              "ToolTip": "F:\\ANGULAR\\MVC_PROJECT\\Hospital\\Hospital.Web\\appsettings.json",
-              "RelativeToolTip": "Hospital.Web\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAClAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-02-28T14:41:24.966Z",
+              "WhenOpened": "2025-02-28T17:46:57.903Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "ApplicationDbContextFactory.cs",
-              "DocumentMoniker": "F:\\ANGULAR\\MVC_PROJECT\\Hospital\\Hospital.Repositories\\ApplicationDbContextFactory.cs",
-              "RelativeDocumentMoniker": "Hospital.Repositories\\ApplicationDbContextFactory.cs",
-              "ToolTip": "F:\\ANGULAR\\MVC_PROJECT\\Hospital\\Hospital.Repositories\\ApplicationDbContextFactory.cs",
-              "RelativeToolTip": "Hospital.Repositories\\ApplicationDbContextFactory.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "C:\\Users\\Shrouk Essam\\OneDrive\\ITI\\MVCProject\\Hospital-Management-System\\Hospital\\Hospital.Models\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "Hospital.Models\\ApplicationUser.cs",
+              "ToolTip": "C:\\Users\\Shrouk Essam\\OneDrive\\ITI\\MVCProject\\Hospital-Management-System\\Hospital\\Hospital.Models\\ApplicationUser.cs",
+              "RelativeToolTip": "Hospital.Models\\ApplicationUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-28T14:39:00.282Z",
+              "WhenOpened": "2025-02-28T17:36:37.918Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HospitalsController.cs",
+              "DocumentMoniker": "C:\\Users\\Shrouk Essam\\OneDrive\\ITI\\MVCProject\\Hospital-Management-System\\Hospital\\Hospital.Web\\Areas\\Admin\\Controllers\\HospitalsController.cs",
+              "RelativeDocumentMoniker": "Hospital.Web\\Areas\\Admin\\Controllers\\HospitalsController.cs",
+              "ToolTip": "C:\\Users\\Shrouk Essam\\OneDrive\\ITI\\MVCProject\\Hospital-Management-System\\Hospital\\Hospital.Web\\Areas\\Admin\\Controllers\\HospitalsController.cs",
+              "RelativeToolTip": "Hospital.Web\\Areas\\Admin\\Controllers\\HospitalsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T17:30:33.121Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
+              "Title": "IHospitalInfo.cs",
+              "DocumentMoniker": "C:\\Users\\Shrouk Essam\\OneDrive\\ITI\\MVCProject\\Hospital-Management-System\\Hospital\\Hospital.Services\\IHospitalInfo.cs",
+              "RelativeDocumentMoniker": "Hospital.Services\\IHospitalInfo.cs",
+              "ToolTip": "C:\\Users\\Shrouk Essam\\OneDrive\\ITI\\MVCProject\\Hospital-Management-System\\Hospital\\Hospital.Services\\IHospitalInfo.cs",
+              "RelativeToolTip": "Hospital.Services\\IHospitalInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T17:11:29.708Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HospitalInfoService.cs",
+              "DocumentMoniker": "C:\\Users\\Shrouk Essam\\OneDrive\\ITI\\MVCProject\\Hospital-Management-System\\Hospital\\Hospital.Services\\HospitalInfoService.cs",
+              "RelativeDocumentMoniker": "Hospital.Services\\HospitalInfoService.cs",
+              "ToolTip": "C:\\Users\\Shrouk Essam\\OneDrive\\ITI\\MVCProject\\Hospital-Management-System\\Hospital\\Hospital.Services\\HospitalInfoService.cs",
+              "RelativeToolTip": "Hospital.Services\\HospitalInfoService.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAkwFAAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T16:43:12.837Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HospitalInfoViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Shrouk Essam\\OneDrive\\ITI\\MVCProject\\Hospital-Management-System\\Hospital\\Hospital.ViewModels\\HospitalInfoViewModel.cs",
+              "RelativeDocumentMoniker": "Hospital.ViewModels\\HospitalInfoViewModel.cs",
+              "ToolTip": "C:\\Users\\Shrouk Essam\\OneDrive\\ITI\\MVCProject\\Hospital-Management-System\\Hospital\\Hospital.ViewModels\\HospitalInfoViewModel.cs",
+              "RelativeToolTip": "Hospital.ViewModels\\HospitalInfoViewModel.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAYwBsAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T16:39:36.18Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "EmailSender.cs",
+              "DocumentMoniker": "C:\\Users\\Shrouk Essam\\OneDrive\\ITI\\MVCProject\\Hospital-Management-System\\Hospital\\hospitals.Utilities\\EmailSender.cs",
+              "RelativeDocumentMoniker": "hospitals.Utilities\\EmailSender.cs",
+              "ToolTip": "C:\\Users\\Shrouk Essam\\OneDrive\\ITI\\MVCProject\\Hospital-Management-System\\Hospital\\hospitals.Utilities\\EmailSender.cs",
+              "RelativeToolTip": "hospitals.Utilities\\EmailSender.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T16:25:02.976Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Shrouk Essam\\OneDrive\\ITI\\MVCProject\\Hospital-Management-System\\Hospital\\Hospital.Web\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Hospital.Web\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Shrouk Essam\\OneDrive\\ITI\\MVCProject\\Hospital-Management-System\\Hospital\\Hospital.Web\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Hospital.Web\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-28T15:59:12.591Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "DbInitiliazer.cs",
-              "DocumentMoniker": "F:\\ANGULAR\\MVC_PROJECT\\Hospital\\hospitals.Utilities\\DbInitiliazer.cs",
+              "DocumentMoniker": "C:\\Users\\Shrouk Essam\\OneDrive\\ITI\\MVCProject\\Hospital-Management-System\\Hospital\\hospitals.Utilities\\DbInitiliazer.cs",
               "RelativeDocumentMoniker": "hospitals.Utilities\\DbInitiliazer.cs",
-              "ToolTip": "F:\\ANGULAR\\MVC_PROJECT\\Hospital\\hospitals.Utilities\\DbInitiliazer.cs",
+              "ToolTip": "C:\\Users\\Shrouk Essam\\OneDrive\\ITI\\MVCProject\\Hospital-Management-System\\Hospital\\hospitals.Utilities\\DbInitiliazer.cs",
               "RelativeToolTip": "hospitals.Utilities\\DbInitiliazer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABYAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-28T13:54:25.43Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 15,
               "Title": "Hospital.Web.csproj",
-              "DocumentMoniker": "F:\\ANGULAR\\MVC_PROJECT\\Hospital\\Hospital.Web\\Hospital.Web.csproj",
+              "DocumentMoniker": "C:\\Users\\Shrouk Essam\\OneDrive\\ITI\\MVCProject\\Hospital-Management-System\\Hospital\\Hospital.Web\\Hospital.Web.csproj",
               "RelativeDocumentMoniker": "Hospital.Web\\Hospital.Web.csproj",
-              "ToolTip": "F:\\ANGULAR\\MVC_PROJECT\\Hospital\\Hospital.Web\\Hospital.Web.csproj",
+              "ToolTip": "C:\\Users\\Shrouk Essam\\OneDrive\\ITI\\MVCProject\\Hospital-Management-System\\Hospital\\Hospital.Web\\Hospital.Web.csproj",
               "RelativeToolTip": "Hospital.Web\\Hospital.Web.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-02-28T13:49:33.308Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-28T13:49:33.308Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "F:\\ANGULAR\\MVC_PROJECT\\Hospital\\Hospital.Repositories\\ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Shrouk Essam\\OneDrive\\ITI\\MVCProject\\Hospital-Management-System\\Hospital\\Hospital.Repositories\\ApplicationDbContext.cs",
               "RelativeDocumentMoniker": "Hospital.Repositories\\ApplicationDbContext.cs",
-              "ToolTip": "F:\\ANGULAR\\MVC_PROJECT\\Hospital\\Hospital.Repositories\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Shrouk Essam\\OneDrive\\ITI\\MVCProject\\Hospital-Management-System\\Hospital\\Hospital.Repositories\\ApplicationDbContext.cs",
               "RelativeToolTip": "Hospital.Repositories\\ApplicationDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACAAAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-28T13:46:32.685Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 14,
               "Title": "Hospital.Repositories.csproj",
-              "DocumentMoniker": "F:\\ANGULAR\\MVC_PROJECT\\Hospital\\Hospital.Repositories\\Hospital.Repositories.csproj",
+              "DocumentMoniker": "C:\\Users\\Shrouk Essam\\OneDrive\\ITI\\MVCProject\\Hospital-Management-System\\Hospital\\Hospital.Repositories\\Hospital.Repositories.csproj",
               "RelativeDocumentMoniker": "Hospital.Repositories\\Hospital.Repositories.csproj",
-              "ToolTip": "F:\\ANGULAR\\MVC_PROJECT\\Hospital\\Hospital.Repositories\\Hospital.Repositories.csproj",
+              "ToolTip": "C:\\Users\\Shrouk Essam\\OneDrive\\ITI\\MVCProject\\Hospital-Management-System\\Hospital\\Hospital.Repositories\\Hospital.Repositories.csproj",
               "RelativeToolTip": "Hospital.Repositories\\Hospital.Repositories.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAABKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-02-28T13:33:01.208Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-28T13:33:01.208Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "Program.cs",
-              "DocumentMoniker": "F:\\ANGULAR\\MVC_PROJECT\\Hospital\\Hospital.Web\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Shrouk Essam\\OneDrive\\ITI\\MVCProject\\Hospital-Management-System\\Hospital\\Hospital.Web\\Program.cs",
               "RelativeDocumentMoniker": "Hospital.Web\\Program.cs",
-              "ToolTip": "F:\\ANGULAR\\MVC_PROJECT\\Hospital\\Hospital.Web\\Program.cs",
+              "ToolTip": "C:\\Users\\Shrouk Essam\\OneDrive\\ITI\\MVCProject\\Hospital-Management-System\\Hospital\\Hospital.Web\\Program.cs",
               "RelativeToolTip": "Hospital.Web\\Program.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABoAAAAtAAAAAAAAAA==",
+              "ViewState": "AgIAABAAAAAAAAAAAAAUwBcAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-28T13:18:02.973Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 13,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "F:\\ANGULAR\\MVC_PROJECT\\Hospital\\Hospital.Web\\Areas\\Patient\\Views\\Home\\Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Shrouk Essam\\OneDrive\\ITI\\MVCProject\\Hospital-Management-System\\Hospital\\Hospital.Web\\Areas\\Patient\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "Hospital.Web\\Areas\\Patient\\Views\\Home\\Index.cshtml",
-              "ToolTip": "F:\\ANGULAR\\MVC_PROJECT\\Hospital\\Hospital.Web\\Areas\\Patient\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Shrouk Essam\\OneDrive\\ITI\\MVCProject\\Hospital-Management-System\\Hospital\\Hospital.Web\\Areas\\Patient\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "Hospital.Web\\Areas\\Patient\\Views\\Home\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -195,24 +282,24 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 12,
               "Title": "HomeController.cs",
-              "DocumentMoniker": "F:\\ANGULAR\\MVC_PROJECT\\Hospital\\Hospital.Web\\Areas\\Patient\\Controllers\\HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Shrouk Essam\\OneDrive\\ITI\\MVCProject\\Hospital-Management-System\\Hospital\\Hospital.Web\\Areas\\Patient\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "Hospital.Web\\Areas\\Patient\\Controllers\\HomeController.cs",
-              "ToolTip": "F:\\ANGULAR\\MVC_PROJECT\\Hospital\\Hospital.Web\\Areas\\Patient\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Shrouk Essam\\OneDrive\\ITI\\MVCProject\\Hospital-Management-System\\Hospital\\Hospital.Web\\Areas\\Patient\\Controllers\\HomeController.cs",
               "RelativeToolTip": "Hospital.Web\\Areas\\Patient\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAfAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-28T13:14:35.262Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 16,
               "Title": "ScaffoldingReadMe.txt",
-              "DocumentMoniker": "F:\\ANGULAR\\MVC_PROJECT\\Hospital\\Hospital.Web\\ScaffoldingReadMe.txt",
+              "DocumentMoniker": "C:\\Users\\Shrouk Essam\\OneDrive\\ITI\\MVCProject\\Hospital-Management-System\\Hospital\\Hospital.Web\\ScaffoldingReadMe.txt",
               "RelativeDocumentMoniker": "Hospital.Web\\ScaffoldingReadMe.txt",
-              "ToolTip": "F:\\ANGULAR\\MVC_PROJECT\\Hospital\\Hospital.Web\\ScaffoldingReadMe.txt",
+              "ToolTip": "C:\\Users\\Shrouk Essam\\OneDrive\\ITI\\MVCProject\\Hospital-Management-System\\Hospital\\Hospital.Web\\ScaffoldingReadMe.txt",
               "RelativeToolTip": "Hospital.Web\\ScaffoldingReadMe.txt",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
@@ -221,11 +308,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 17,
               "Title": "UnitOfWork.cs",
-              "DocumentMoniker": "F:\\ANGULAR\\MVC_PROJECT\\Hospital\\Hospital.Repositories\\Implementation\\UnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\Shrouk Essam\\OneDrive\\ITI\\MVCProject\\Hospital-Management-System\\Hospital\\Hospital.Repositories\\Implementation\\UnitOfWork.cs",
               "RelativeDocumentMoniker": "Hospital.Repositories\\Implementation\\UnitOfWork.cs",
-              "ToolTip": "F:\\ANGULAR\\MVC_PROJECT\\Hospital\\Hospital.Repositories\\Implementation\\UnitOfWork.cs",
+              "ToolTip": "C:\\Users\\Shrouk Essam\\OneDrive\\ITI\\MVCProject\\Hospital-Management-System\\Hospital\\Hospital.Repositories\\Implementation\\UnitOfWork.cs",
               "RelativeToolTip": "Hospital.Repositories\\Implementation\\UnitOfWork.cs",
               "ViewState": "AgIAABkAAAAAAAAAAABQwCgAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -234,24 +321,24 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 7,
               "Title": "IUnitOfWork.cs",
-              "DocumentMoniker": "F:\\ANGULAR\\MVC_PROJECT\\Hospital\\Hospital.Repositories\\Interfaces\\IUnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\Shrouk Essam\\OneDrive\\ITI\\MVCProject\\Hospital-Management-System\\Hospital\\Hospital.Repositories\\Interfaces\\IUnitOfWork.cs",
               "RelativeDocumentMoniker": "Hospital.Repositories\\Interfaces\\IUnitOfWork.cs",
-              "ToolTip": "F:\\ANGULAR\\MVC_PROJECT\\Hospital\\Hospital.Repositories\\Interfaces\\IUnitOfWork.cs",
+              "ToolTip": "C:\\Users\\Shrouk Essam\\OneDrive\\ITI\\MVCProject\\Hospital-Management-System\\Hospital\\Hospital.Repositories\\Interfaces\\IUnitOfWork.cs",
               "RelativeToolTip": "Hospital.Repositories\\Interfaces\\IUnitOfWork.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAeAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-28T12:51:22.121Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 19,
               "Title": "GenericRepository.cs",
-              "DocumentMoniker": "F:\\ANGULAR\\MVC_PROJECT\\Hospital\\Hospital.Repositories\\Implementation\\GenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Shrouk Essam\\OneDrive\\ITI\\MVCProject\\Hospital-Management-System\\Hospital\\Hospital.Repositories\\Implementation\\GenericRepository.cs",
               "RelativeDocumentMoniker": "Hospital.Repositories\\Implementation\\GenericRepository.cs",
-              "ToolTip": "F:\\ANGULAR\\MVC_PROJECT\\Hospital\\Hospital.Repositories\\Implementation\\GenericRepository.cs",
+              "ToolTip": "C:\\Users\\Shrouk Essam\\OneDrive\\ITI\\MVCProject\\Hospital-Management-System\\Hospital\\Hospital.Repositories\\Implementation\\GenericRepository.cs",
               "RelativeToolTip": "Hospital.Repositories\\Implementation\\GenericRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAABBwAkAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -260,11 +347,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 18,
               "Title": "IGenericRepository.cs",
-              "DocumentMoniker": "F:\\ANGULAR\\MVC_PROJECT\\Hospital\\Hospital.Repositories\\Interfaces\\IGenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Shrouk Essam\\OneDrive\\ITI\\MVCProject\\Hospital-Management-System\\Hospital\\Hospital.Repositories\\Interfaces\\IGenericRepository.cs",
               "RelativeDocumentMoniker": "Hospital.Repositories\\Interfaces\\IGenericRepository.cs",
-              "ToolTip": "F:\\ANGULAR\\MVC_PROJECT\\Hospital\\Hospital.Repositories\\Interfaces\\IGenericRepository.cs",
+              "ToolTip": "C:\\Users\\Shrouk Essam\\OneDrive\\ITI\\MVCProject\\Hospital-Management-System\\Hospital\\Hospital.Repositories\\Interfaces\\IGenericRepository.cs",
               "RelativeToolTip": "Hospital.Repositories\\Interfaces\\IGenericRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
