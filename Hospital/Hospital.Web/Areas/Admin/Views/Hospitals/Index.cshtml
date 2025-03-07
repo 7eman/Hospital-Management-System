@@ -1,0 +1,67 @@
+﻿@using hospitals.Utilities
+@model PagedResult<Hospital.ViewModels.HospitalInfoViewModel>
+
+<div class="container mt-4">
+    <div class="d-flex justify-content-between align-items-center mb-3">
+        <h2>Hospital List</h2>
+        <a asp-action="Create" class="btn btn-primary">
+            <i class="fas fa-plus"></i> Create New
+        </a>
+    </div>
+
+    <table class="table table-hover table-bordered">
+        <thead class="table-dark">
+            <tr>
+                <th>Id</th>
+                <th>Name</th>
+                <th>Type</th>
+                <th>City</th>
+                <th>PinCode</th>
+                <th>Country</th>
+                <th>Actions</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model.Data)
+            {
+                <tr>
+                    <td>@Html.DisplayFor(modelItem => item.Id)</td>
+                    <td>@Html.DisplayFor(modelItem => item.Name)</td>
+                    <td>@Html.DisplayFor(modelItem => item.Type)</td>
+                    <td>@Html.DisplayFor(modelItem => item.City)</td>
+                    <td>@Html.DisplayFor(modelItem => item.PinCode)</td>
+                    <td>@Html.DisplayFor(modelItem => item.Country)</td>
+                    <td>
+                        <a asp-action="Edit" asp-route-Id="@item.Id" class="btn btn-warning btn-sm">
+                            <i class="fas fa-edit"></i> Edit
+                        </a>
+                        <a asp-action="Details" asp-route-Id="@item.Id" class="btn btn-info btn-sm">
+                            <i class="fas fa-eye"></i> Details
+                        </a>
+                        <a asp-action="Delete" asp-route-Id="@item.Id" class="btn btn-danger btn-sm" onclick="return confirm('Are you sure?');">
+                            <i class="fas fa-trash"></i> Delete
+                        </a>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+
+    <div class="d-flex justify-content-center mt-3">
+        <cs-pager cs-paging-pagesize="@Model.PageSize"
+                  cs-paging-pagenumber="@Model.PageNumber"
+                  cs-paging-totalitems="@Model.TotalItems"
+                  cs-pagenumber-param="pageNumber"
+                  asp-controller="Hospitals"
+                  asp-action="Index"
+                  cs-pager-li-current-class="page-item active"
+                  cs-pager-li-other-class="page-item"
+                  cs-pager-li-non-active-class="page-item disabled"
+                  cs-pager-link-current-class="page-link"
+                  cs-pager-other-class="page-link">
+        </cs-pager>
+    </div>
+</div>
+
+
+

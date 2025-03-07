@@ -1,0 +1,56 @@
+﻿@model Hospital.ViewModels.RoomViewModels
+
+@{
+    ViewData["Title"] = "Create Room";
+}
+
+<h2>Create Room</h2>
+
+<div class="card">
+    <div class="card-body">
+        <form asp-action="Create" method="post">
+            <div class="mb-3">
+                <label asp-for="RoomNumber" class="form-label"></label>
+                <input asp-for="RoomNumber" class="form-control" />
+                <span asp-validation-for="RoomNumber" class="text-danger"></span>
+            </div>
+
+            <div class="mb-3">
+                <label asp-for="Type" class="form-label"></label>
+                <select asp-for="Type" class="form-select">
+                    <option value="">-- Select Type --</option>
+                    <option value="General">General</option>
+                    <option value="ICU">ICU</option>
+                    <option value="VIP">VIP</option>
+                </select>
+                <span asp-validation-for="Type" class="text-danger"></span>
+            </div>
+
+            <div class="mb-3">
+                <label asp-for="Status" class="form-label"></label>
+                <select asp-for="Status" class="form-select">
+                    <option value="">-- Select Status --</option>
+                    <option value="Available">Available</option>
+                    <option value="Occupied">Occupied</option>
+                    <option value="Under Maintenance">Under Maintenance</option>
+                </select>
+                <span asp-validation-for="Status" class="text-danger"></span>
+            </div>
+
+            <div class="mb-3">
+                <label asp-for="HospitalInfoId" class="form-label"></label>
+                <select asp-for="HospitalInfoId" class="form-select" asp-items="ViewBag.hospital">
+                    <option value="">-- Select Hospital --</option>
+                </select>
+                <span asp-validation-for="HospitalInfoId" class="text-danger"></span>
+            </div>
+
+            <button type="submit" class="btn btn-success">Save</button>
+            <a asp-action="Index" class="btn btn-secondary">Cancel</a>
+        </form>
+    </div>
+</div>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}

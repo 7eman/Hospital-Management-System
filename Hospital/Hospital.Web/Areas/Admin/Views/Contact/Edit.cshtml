@@ -1,0 +1,44 @@
+﻿@model Hospital.ViewModels.ContactViewModel
+
+@{
+    ViewData["Title"] = "Edit Contact";
+}
+
+<h2>Edit Contact</h2>
+
+<div class="card">
+    <div class="card-body">
+        <form asp-action="Edit">
+            <input type="hidden" asp-for="Id" />
+
+            <div class="mb-3">
+                <label asp-for="Email" class="form-label"></label>
+                <input asp-for="Email" class="form-control" />
+                <span asp-validation-for="Email" class="text-danger"></span>
+            </div>
+
+            <div class="mb-3">
+                <label asp-for="Phone" class="form-label"></label>
+                <input asp-for="Phone" class="form-control" />
+                <span asp-validation-for="Phone" class="text-danger"></span>
+            </div>
+
+            <div class="mb-3">
+                <label asp-for="HospitalInfoId" class="form-label"></label>
+                <select asp-for="HospitalInfoId" asp-items="ViewBag.hospital" class="form-select">
+                    <option value="">-- Select Hospital --</option>
+                </select>
+                <span asp-validation-for="HospitalInfoId" class="text-danger"></span>
+
+                <span asp-validation-for="HospitalInfoId" class="text-danger"></span>
+            </div>
+
+            <button type="submit" class="btn btn-success">Save Changes</button>
+            <a asp-action="Index" class="btn btn-secondary">Cancel</a>
+        </form>
+    </div>
+</div>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}

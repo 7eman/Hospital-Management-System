@@ -18,5 +18,6 @@ namespace Hospital.Services
         void InsertHospitalInfo(HospitalInfoViewModel hospitalInfo);
         
         void DeleteHospitalInfo(int id);
+
     }
 }

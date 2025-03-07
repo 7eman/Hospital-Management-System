@@ -7,6 +7,7 @@
   </PropertyGroup>
 
   <ItemGroup>
+	  <PackageReference Include="cloudscribe.Web.Pagination" Version="8.0.0" />
 	  <PackageReference Include="Microsoft.AspNetCore.Identity" Version="2.3.0" />
 	  <PackageReference Include="Microsoft.AspNetCore.Identity.EntityFrameworkCore" Version="9.0.2" />
 	  <PackageReference Include="Microsoft.EntityFrameworkCore" Version="9.0.2" />
@@ -22,12 +23,14 @@
 		 
 		<ProjectReference Include="..\Hospital.Repositories\Hospital.Repositories.csproj" />
 		 
+		<ProjectReference Include="..\Hospital.Services\Hospital.Services.csproj" />
+		 
 		<ProjectReference Include="..\hospitals.Utilities\hospitals.Utilities.csproj" />
 	</ItemGroup>
 	<ItemGroup>
-	  <Folder Include="Areas\Admin\Views\" />
 	  <Folder Include="Areas\Doctor\Controllers\" />
 	  <Folder Include="Areas\Doctor\Views\" />
+	  <Folder Include="Areas\Doctor\" />
 	</ItemGroup>
 
 

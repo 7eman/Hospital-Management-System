@@ -3,6 +3,7 @@ using Hospital.Repositories.Implementation;
 using Hospital.Repositories.Interfaces;
 using Hospital.ViewModels;
 using hospitals.Utilities;
+using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -14,6 +15,7 @@ namespace Hospital.Services
     public class HospitalInfoService : IHospitalInfo
     {
         private IUnitOfWork _unitOfWork;
+        private IHospitalInfo _hospitalInfo;
 
         public HospitalInfoService(IUnitOfWork unitOfWork)
         {
@@ -80,6 +82,7 @@ namespace Hospital.Services
             _unitOfWork.GenericRepository<HospitalInfo>().Update(ModelById);
             _unitOfWork.Save();
         }
+      
 
         private List<HospitalInfoViewModel> ConvertModelToViewModelList(List<HospitalInfo> modelList )
         {

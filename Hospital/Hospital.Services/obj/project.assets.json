@@ -4332,23 +4332,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Shrouk Essam\\.nuget\\packages\\": {},
+    "C:\\Users\\Abanoub\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Shrouk Essam\\OneDrive\\ITI\\MVCProject\\Hospital-Management-System\\Hospital\\Hospital.Services\\Hospital.Services.csproj",
+      "projectUniqueName": "C:\\Users\\Abanoub\\OneDrive\\Desktop\\project\\MVC project\\Hospital-Management-System\\Hospital\\Hospital.Services\\Hospital.Services.csproj",
       "projectName": "Hospital.Services",
-      "projectPath": "C:\\Users\\Shrouk Essam\\OneDrive\\ITI\\MVCProject\\Hospital-Management-System\\Hospital\\Hospital.Services\\Hospital.Services.csproj",
-      "packagesPath": "C:\\Users\\Shrouk Essam\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Shrouk Essam\\OneDrive\\ITI\\MVCProject\\Hospital-Management-System\\Hospital\\Hospital.Services\\obj\\",
+      "projectPath": "C:\\Users\\Abanoub\\OneDrive\\Desktop\\project\\MVC project\\Hospital-Management-System\\Hospital\\Hospital.Services\\Hospital.Services.csproj",
+      "packagesPath": "C:\\Users\\Abanoub\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Abanoub\\OneDrive\\Desktop\\project\\MVC project\\Hospital-Management-System\\Hospital\\Hospital.Services\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\Shrouk Essam\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Abanoub\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -4363,11 +4363,11 @@
         "net9.0": {
           "targetAlias": "net9.0",
           "projectReferences": {
-            "C:\\Users\\Shrouk Essam\\OneDrive\\ITI\\MVCProject\\Hospital-Management-System\\Hospital\\Hospital.ViewModels\\Hospital.ViewModels.csproj": {
-              "projectPath": "C:\\Users\\Shrouk Essam\\OneDrive\\ITI\\MVCProject\\Hospital-Management-System\\Hospital\\Hospital.ViewModels\\Hospital.ViewModels.csproj"
+            "C:\\Users\\Abanoub\\OneDrive\\Desktop\\project\\MVC project\\Hospital-Management-System\\Hospital\\Hospital.ViewModels\\Hospital.ViewModels.csproj": {
+              "projectPath": "C:\\Users\\Abanoub\\OneDrive\\Desktop\\project\\MVC project\\Hospital-Management-System\\Hospital\\Hospital.ViewModels\\Hospital.ViewModels.csproj"
             },
-            "C:\\Users\\Shrouk Essam\\OneDrive\\ITI\\MVCProject\\Hospital-Management-System\\Hospital\\hospitals.Utilities\\hospitals.Utilities.csproj": {
-              "projectPath": "C:\\Users\\Shrouk Essam\\OneDrive\\ITI\\MVCProject\\Hospital-Management-System\\Hospital\\hospitals.Utilities\\hospitals.Utilities.csproj"
+            "C:\\Users\\Abanoub\\OneDrive\\Desktop\\project\\MVC project\\Hospital-Management-System\\Hospital\\hospitals.Utilities\\hospitals.Utilities.csproj": {
+              "projectPath": "C:\\Users\\Abanoub\\OneDrive\\Desktop\\project\\MVC project\\Hospital-Management-System\\Hospital\\hospitals.Utilities\\hospitals.Utilities.csproj"
             }
           }
         }
@@ -4403,7 +4403,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.103/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

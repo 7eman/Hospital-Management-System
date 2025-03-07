@@ -18,6 +18,7 @@ namespace Hospital.Models
         public string Address { get; set; }
         public DateTime DOP { get; set; }
         public string Specialist { get; set; }
+        public bool IsDoctor { get; set; }
         public int? DepartmentId { get; set; } 
         public Department? Department { get; set; }
         //public Department Department { get; set; }
