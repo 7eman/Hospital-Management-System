@@ -1,7 +1,20 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Abanoub\\OneDrive\\Desktop\\project\\MVC project\\Hospital-Management-System\\Hospital\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\Users\\hashe\\Desktop\\Hospital-Management-System\\Hospital\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{67881924-849A-4237-970D-16B4AF72B932}|Hospital.Web\\Hospital.Web.csproj|c:\\users\\hashe\\desktop\\hospital-management-system\\hospital\\hospital.web\\areas\\admin\\views\\contact\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{67881924-849A-4237-970D-16B4AF72B932}|Hospital.Web\\Hospital.Web.csproj|solutionrelative:hospital.web\\areas\\admin\\views\\contact\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67881924-849A-4237-970D-16B4AF72B932}|Hospital.Web\\Hospital.Web.csproj|c:\\users\\hashe\\desktop\\hospital-management-system\\hospital\\hospital.web\\areas\\admin\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67881924-849A-4237-970D-16B4AF72B932}|Hospital.Web\\Hospital.Web.csproj|solutionrelative:hospital.web\\areas\\admin\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67881924-849A-4237-970D-16B4AF72B932}|Hospital.Web\\Hospital.Web.csproj|c:\\users\\hashe\\desktop\\hospital-management-system\\hospital\\hospital.web\\areas\\admin\\views\\rooms\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{67881924-849A-4237-970D-16B4AF72B932}|Hospital.Web\\Hospital.Web.csproj|solutionrelative:hospital.web\\areas\\admin\\views\\rooms\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +22,46 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\hashe\\Desktop\\Hospital-Management-System\\Hospital\\Hospital.Web\\Areas\\Admin\\Views\\Contact\\Details.cshtml",
+              "RelativeDocumentMoniker": "Hospital.Web\\Areas\\Admin\\Views\\Contact\\Details.cshtml",
+              "ToolTip": "C:\\Users\\hashe\\Desktop\\Hospital-Management-System\\Hospital\\Hospital.Web\\Areas\\Admin\\Views\\Contact\\Details.cshtml",
+              "RelativeToolTip": "Hospital.Web\\Areas\\Admin\\Views\\Contact\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-18T14:00:57.283Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ContactController.cs",
+              "DocumentMoniker": "C:\\Users\\hashe\\Desktop\\Hospital-Management-System\\Hospital\\Hospital.Web\\Areas\\Admin\\Controllers\\ContactController.cs",
+              "RelativeDocumentMoniker": "Hospital.Web\\Areas\\Admin\\Controllers\\ContactController.cs",
+              "ToolTip": "C:\\Users\\hashe\\Desktop\\Hospital-Management-System\\Hospital\\Hospital.Web\\Areas\\Admin\\Controllers\\ContactController.cs",
+              "RelativeToolTip": "Hospital.Web\\Areas\\Admin\\Controllers\\ContactController.cs",
+              "ViewState": "AgIAAFgAAAAAAAAAAAAmwGoAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T13:59:02.832Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\hashe\\Desktop\\Hospital-Management-System\\Hospital\\Hospital.Web\\Areas\\Admin\\Views\\Rooms\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Hospital.Web\\Areas\\Admin\\Views\\Rooms\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\hashe\\Desktop\\Hospital-Management-System\\Hospital\\Hospital.Web\\Areas\\Admin\\Views\\Rooms\\Edit.cshtml",
+              "RelativeToolTip": "Hospital.Web\\Areas\\Admin\\Views\\Rooms\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-18T13:56:39.954Z",
+              "EditorCaption": ""
             }
           ]
         }

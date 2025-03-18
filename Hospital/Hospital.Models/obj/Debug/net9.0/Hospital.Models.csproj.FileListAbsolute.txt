@@ -73,3 +73,18 @@ C:\Users\Abanoub\OneDrive\Desktop\project\MVC project\Hospital-Management-System
 C:\Users\Abanoub\OneDrive\Desktop\project\MVC project\Hospital-Management-System\Hospital\Hospital.Models\obj\Debug\net9.0\Hospital.Models.pdb
 C:\Users\Abanoub\OneDrive\Desktop\project\MVC project\Hospital-Management-System\Hospital\Hospital.Models\obj\Debug\net9.0\Hospital.Models.genruntimeconfig.cache
 C:\Users\Abanoub\OneDrive\Desktop\project\MVC project\Hospital-Management-System\Hospital\Hospital.Models\obj\Debug\net9.0\ref\Hospital.Models.dll
+C:\Users\hashe\Desktop\Hospital-Management-System\Hospital\Hospital.Models\bin\Debug\net9.0\Hospital.Models.deps.json
+C:\Users\hashe\Desktop\Hospital-Management-System\Hospital\Hospital.Models\bin\Debug\net9.0\Hospital.Models.runtimeconfig.json
+C:\Users\hashe\Desktop\Hospital-Management-System\Hospital\Hospital.Models\bin\Debug\net9.0\Hospital.Models.dll
+C:\Users\hashe\Desktop\Hospital-Management-System\Hospital\Hospital.Models\bin\Debug\net9.0\Hospital.Models.pdb
+C:\Users\hashe\Desktop\Hospital-Management-System\Hospital\Hospital.Models\obj\Debug\net9.0\Hospital.Models.csproj.AssemblyReference.cache
+C:\Users\hashe\Desktop\Hospital-Management-System\Hospital\Hospital.Models\obj\Debug\net9.0\Hospital.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hashe\Desktop\Hospital-Management-System\Hospital\Hospital.Models\obj\Debug\net9.0\Hospital.Models.AssemblyInfoInputs.cache
+C:\Users\hashe\Desktop\Hospital-Management-System\Hospital\Hospital.Models\obj\Debug\net9.0\Hospital.Models.AssemblyInfo.cs
+C:\Users\hashe\Desktop\Hospital-Management-System\Hospital\Hospital.Models\obj\Debug\net9.0\Hospital.Models.csproj.CoreCompileInputs.cache
+C:\Users\hashe\Desktop\Hospital-Management-System\Hospital\Hospital.Models\obj\Debug\net9.0\Hospital.Models.sourcelink.json
+C:\Users\hashe\Desktop\Hospital-Management-System\Hospital\Hospital.Models\obj\Debug\net9.0\Hospital.Models.dll
+C:\Users\hashe\Desktop\Hospital-Management-System\Hospital\Hospital.Models\obj\Debug\net9.0\refint\Hospital.Models.dll
+C:\Users\hashe\Desktop\Hospital-Management-System\Hospital\Hospital.Models\obj\Debug\net9.0\Hospital.Models.pdb
+C:\Users\hashe\Desktop\Hospital-Management-System\Hospital\Hospital.Models\obj\Debug\net9.0\Hospital.Models.genruntimeconfig.cache
+C:\Users\hashe\Desktop\Hospital-Management-System\Hospital\Hospital.Models\obj\Debug\net9.0\ref\Hospital.Models.dll

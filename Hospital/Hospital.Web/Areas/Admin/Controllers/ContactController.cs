@@ -82,7 +82,7 @@ namespace Hospital.Web.Areas.Admin.Controllers
                 ViewBag.Hospitals = hospitals;
                 return View(vm);
             }
-           
+
             _contact.InsertContact(vm);
             return RedirectToAction("Index");
         }
@@ -97,6 +97,16 @@ namespace Hospital.Web.Areas.Admin.Controllers
 
             _contact.DeleteContact(id);
             return RedirectToAction("Index");
+        }
+
+        public IActionResult Details(int id)
+        {
+            var contact = _contact.GetContactById(id);
+            if (contact == null)
+            {
+                return NotFound();
+            }
+            return View(contact);
         }
     }
 }

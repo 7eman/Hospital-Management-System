@@ -47,5 +47,11 @@ namespace Hospital.Web.Areas.Admin.Controllers
             _hospitalInfo.DeleteHospitalInfo(id);
             return RedirectToAction("Index");
         }
+
+        public IActionResult Details(int id)
+        {
+            var viewModel = _hospitalInfo.GetHospitalById(id);
+            return View(viewModel);
+        }
     }
 }

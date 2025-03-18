@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Abanoub\\OneDrive\\Desktop\\project\\MVC project\\Hospital-Management-System\\Hospital\\Hospital.Models\\Hospital.Models.csproj": {}
+    "C:\\Users\\hashe\\Desktop\\Hospital-Management-System\\Hospital\\Hospital.Models\\Hospital.Models.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Abanoub\\OneDrive\\Desktop\\project\\MVC project\\Hospital-Management-System\\Hospital\\Hospital.Models\\Hospital.Models.csproj": {
+    "C:\\Users\\hashe\\Desktop\\Hospital-Management-System\\Hospital\\Hospital.Models\\Hospital.Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Abanoub\\OneDrive\\Desktop\\project\\MVC project\\Hospital-Management-System\\Hospital\\Hospital.Models\\Hospital.Models.csproj",
+        "projectUniqueName": "C:\\Users\\hashe\\Desktop\\Hospital-Management-System\\Hospital\\Hospital.Models\\Hospital.Models.csproj",
         "projectName": "Hospital.Models",
-        "projectPath": "C:\\Users\\Abanoub\\OneDrive\\Desktop\\project\\MVC project\\Hospital-Management-System\\Hospital\\Hospital.Models\\Hospital.Models.csproj",
-        "packagesPath": "C:\\Users\\Abanoub\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Abanoub\\OneDrive\\Desktop\\project\\MVC project\\Hospital-Management-System\\Hospital\\Hospital.Models\\obj\\",
+        "projectPath": "C:\\Users\\hashe\\Desktop\\Hospital-Management-System\\Hospital\\Hospital.Models\\Hospital.Models.csproj",
+        "packagesPath": "C:\\Users\\hashe\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\hashe\\Desktop\\Hospital-Management-System\\Hospital\\Hospital.Models\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Abanoub\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\hashe\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -44,16 +44,12 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.100"
+        "SdkAnalysisLevel": "9.0.200"
       },
       "frameworks": {
         "net9.0": {
           "targetAlias": "net9.0",
           "dependencies": {
-            "Microsoft.AspNetCore.Identity": {
-              "target": "Package",
-              "version": "[2.3.0, )"
-            },
             "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
               "target": "Package",
               "version": "[9.0.2, )"
@@ -85,7 +81,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

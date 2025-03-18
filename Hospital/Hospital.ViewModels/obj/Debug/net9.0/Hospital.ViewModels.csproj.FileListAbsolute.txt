@@ -74,3 +74,19 @@ C:\Users\Abanoub\OneDrive\Desktop\project\MVC project\Hospital-Management-System
 C:\Users\Abanoub\OneDrive\Desktop\project\MVC project\Hospital-Management-System\Hospital\Hospital.ViewModels\obj\Debug\net9.0\refint\Hospital.ViewModels.dll
 C:\Users\Abanoub\OneDrive\Desktop\project\MVC project\Hospital-Management-System\Hospital\Hospital.ViewModels\obj\Debug\net9.0\Hospital.ViewModels.pdb
 C:\Users\Abanoub\OneDrive\Desktop\project\MVC project\Hospital-Management-System\Hospital\Hospital.ViewModels\obj\Debug\net9.0\ref\Hospital.ViewModels.dll
+C:\Users\hashe\Desktop\Hospital-Management-System\Hospital\Hospital.ViewModels\bin\Debug\net9.0\Hospital.ViewModels.deps.json
+C:\Users\hashe\Desktop\Hospital-Management-System\Hospital\Hospital.ViewModels\bin\Debug\net9.0\Hospital.ViewModels.dll
+C:\Users\hashe\Desktop\Hospital-Management-System\Hospital\Hospital.ViewModels\bin\Debug\net9.0\Hospital.ViewModels.pdb
+C:\Users\hashe\Desktop\Hospital-Management-System\Hospital\Hospital.ViewModels\bin\Debug\net9.0\Hospital.Models.dll
+C:\Users\hashe\Desktop\Hospital-Management-System\Hospital\Hospital.ViewModels\bin\Debug\net9.0\Hospital.Models.pdb
+C:\Users\hashe\Desktop\Hospital-Management-System\Hospital\Hospital.ViewModels\obj\Debug\net9.0\Hospital.ViewModels.csproj.AssemblyReference.cache
+C:\Users\hashe\Desktop\Hospital-Management-System\Hospital\Hospital.ViewModels\obj\Debug\net9.0\Hospital.ViewModels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hashe\Desktop\Hospital-Management-System\Hospital\Hospital.ViewModels\obj\Debug\net9.0\Hospital.ViewModels.AssemblyInfoInputs.cache
+C:\Users\hashe\Desktop\Hospital-Management-System\Hospital\Hospital.ViewModels\obj\Debug\net9.0\Hospital.ViewModels.AssemblyInfo.cs
+C:\Users\hashe\Desktop\Hospital-Management-System\Hospital\Hospital.ViewModels\obj\Debug\net9.0\Hospital.ViewModels.csproj.CoreCompileInputs.cache
+C:\Users\hashe\Desktop\Hospital-Management-System\Hospital\Hospital.ViewModels\obj\Debug\net9.0\Hospital.ViewModels.sourcelink.json
+C:\Users\hashe\Desktop\Hospital-Management-System\Hospital\Hospital.ViewModels\obj\Debug\net9.0\Hospital.62AB27C3.Up2Date
+C:\Users\hashe\Desktop\Hospital-Management-System\Hospital\Hospital.ViewModels\obj\Debug\net9.0\Hospital.ViewModels.dll
+C:\Users\hashe\Desktop\Hospital-Management-System\Hospital\Hospital.ViewModels\obj\Debug\net9.0\refint\Hospital.ViewModels.dll
+C:\Users\hashe\Desktop\Hospital-Management-System\Hospital\Hospital.ViewModels\obj\Debug\net9.0\Hospital.ViewModels.pdb
+C:\Users\hashe\Desktop\Hospital-Management-System\Hospital\Hospital.ViewModels\obj\Debug\net9.0\ref\Hospital.ViewModels.dll

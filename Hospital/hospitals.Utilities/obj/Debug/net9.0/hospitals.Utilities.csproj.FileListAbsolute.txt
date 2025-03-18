@@ -88,3 +88,21 @@ C:\Users\Abanoub\OneDrive\Desktop\project\MVC project\Hospital-Management-System
 C:\Users\Abanoub\OneDrive\Desktop\project\MVC project\Hospital-Management-System\Hospital\hospitals.Utilities\obj\Debug\net9.0\refint\hospitals.Utilities.dll
 C:\Users\Abanoub\OneDrive\Desktop\project\MVC project\Hospital-Management-System\Hospital\hospitals.Utilities\obj\Debug\net9.0\hospitals.Utilities.pdb
 C:\Users\Abanoub\OneDrive\Desktop\project\MVC project\Hospital-Management-System\Hospital\hospitals.Utilities\obj\Debug\net9.0\ref\hospitals.Utilities.dll
+C:\Users\hashe\Desktop\Hospital-Management-System\Hospital\hospitals.Utilities\bin\Debug\net9.0\hospitals.Utilities.deps.json
+C:\Users\hashe\Desktop\Hospital-Management-System\Hospital\hospitals.Utilities\bin\Debug\net9.0\hospitals.Utilities.dll
+C:\Users\hashe\Desktop\Hospital-Management-System\Hospital\hospitals.Utilities\bin\Debug\net9.0\hospitals.Utilities.pdb
+C:\Users\hashe\Desktop\Hospital-Management-System\Hospital\hospitals.Utilities\bin\Debug\net9.0\Hospital.Models.dll
+C:\Users\hashe\Desktop\Hospital-Management-System\Hospital\hospitals.Utilities\bin\Debug\net9.0\Hospital.Repositories.dll
+C:\Users\hashe\Desktop\Hospital-Management-System\Hospital\hospitals.Utilities\bin\Debug\net9.0\Hospital.Models.pdb
+C:\Users\hashe\Desktop\Hospital-Management-System\Hospital\hospitals.Utilities\bin\Debug\net9.0\Hospital.Repositories.pdb
+C:\Users\hashe\Desktop\Hospital-Management-System\Hospital\hospitals.Utilities\obj\Debug\net9.0\hospitals.Utilities.csproj.AssemblyReference.cache
+C:\Users\hashe\Desktop\Hospital-Management-System\Hospital\hospitals.Utilities\obj\Debug\net9.0\hospitals.Utilities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hashe\Desktop\Hospital-Management-System\Hospital\hospitals.Utilities\obj\Debug\net9.0\hospitals.Utilities.AssemblyInfoInputs.cache
+C:\Users\hashe\Desktop\Hospital-Management-System\Hospital\hospitals.Utilities\obj\Debug\net9.0\hospitals.Utilities.AssemblyInfo.cs
+C:\Users\hashe\Desktop\Hospital-Management-System\Hospital\hospitals.Utilities\obj\Debug\net9.0\hospitals.Utilities.csproj.CoreCompileInputs.cache
+C:\Users\hashe\Desktop\Hospital-Management-System\Hospital\hospitals.Utilities\obj\Debug\net9.0\hospitals.Utilities.sourcelink.json
+C:\Users\hashe\Desktop\Hospital-Management-System\Hospital\hospitals.Utilities\obj\Debug\net9.0\hospital.1CF31134.Up2Date
+C:\Users\hashe\Desktop\Hospital-Management-System\Hospital\hospitals.Utilities\obj\Debug\net9.0\hospitals.Utilities.dll
+C:\Users\hashe\Desktop\Hospital-Management-System\Hospital\hospitals.Utilities\obj\Debug\net9.0\refint\hospitals.Utilities.dll
+C:\Users\hashe\Desktop\Hospital-Management-System\Hospital\hospitals.Utilities\obj\Debug\net9.0\hospitals.Utilities.pdb
+C:\Users\hashe\Desktop\Hospital-Management-System\Hospital\hospitals.Utilities\obj\Debug\net9.0\ref\hospitals.Utilities.dll

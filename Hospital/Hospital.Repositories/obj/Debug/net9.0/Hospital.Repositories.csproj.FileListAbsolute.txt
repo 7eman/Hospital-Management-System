@@ -88,3 +88,21 @@ C:\Users\Abanoub\OneDrive\Desktop\project\MVC project\Hospital-Management-System
 C:\Users\Abanoub\OneDrive\Desktop\project\MVC project\Hospital-Management-System\Hospital\Hospital.Repositories\obj\Debug\net9.0\Hospital.Repositories.pdb
 C:\Users\Abanoub\OneDrive\Desktop\project\MVC project\Hospital-Management-System\Hospital\Hospital.Repositories\obj\Debug\net9.0\Hospital.Repositories.genruntimeconfig.cache
 C:\Users\Abanoub\OneDrive\Desktop\project\MVC project\Hospital-Management-System\Hospital\Hospital.Repositories\obj\Debug\net9.0\ref\Hospital.Repositories.dll
+C:\Users\hashe\Desktop\Hospital-Management-System\Hospital\Hospital.Repositories\bin\Debug\net9.0\Hospital.Repositories.deps.json
+C:\Users\hashe\Desktop\Hospital-Management-System\Hospital\Hospital.Repositories\bin\Debug\net9.0\Hospital.Repositories.runtimeconfig.json
+C:\Users\hashe\Desktop\Hospital-Management-System\Hospital\Hospital.Repositories\bin\Debug\net9.0\Hospital.Repositories.dll
+C:\Users\hashe\Desktop\Hospital-Management-System\Hospital\Hospital.Repositories\bin\Debug\net9.0\Hospital.Repositories.pdb
+C:\Users\hashe\Desktop\Hospital-Management-System\Hospital\Hospital.Repositories\bin\Debug\net9.0\Hospital.Models.dll
+C:\Users\hashe\Desktop\Hospital-Management-System\Hospital\Hospital.Repositories\bin\Debug\net9.0\Hospital.Models.pdb
+C:\Users\hashe\Desktop\Hospital-Management-System\Hospital\Hospital.Repositories\obj\Debug\net9.0\Hospital.Repositories.csproj.AssemblyReference.cache
+C:\Users\hashe\Desktop\Hospital-Management-System\Hospital\Hospital.Repositories\obj\Debug\net9.0\Hospital.Repositories.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hashe\Desktop\Hospital-Management-System\Hospital\Hospital.Repositories\obj\Debug\net9.0\Hospital.Repositories.AssemblyInfoInputs.cache
+C:\Users\hashe\Desktop\Hospital-Management-System\Hospital\Hospital.Repositories\obj\Debug\net9.0\Hospital.Repositories.AssemblyInfo.cs
+C:\Users\hashe\Desktop\Hospital-Management-System\Hospital\Hospital.Repositories\obj\Debug\net9.0\Hospital.Repositories.csproj.CoreCompileInputs.cache
+C:\Users\hashe\Desktop\Hospital-Management-System\Hospital\Hospital.Repositories\obj\Debug\net9.0\Hospital.Repositories.sourcelink.json
+C:\Users\hashe\Desktop\Hospital-Management-System\Hospital\Hospital.Repositories\obj\Debug\net9.0\Hospital.043409E1.Up2Date
+C:\Users\hashe\Desktop\Hospital-Management-System\Hospital\Hospital.Repositories\obj\Debug\net9.0\Hospital.Repositories.dll
+C:\Users\hashe\Desktop\Hospital-Management-System\Hospital\Hospital.Repositories\obj\Debug\net9.0\refint\Hospital.Repositories.dll
+C:\Users\hashe\Desktop\Hospital-Management-System\Hospital\Hospital.Repositories\obj\Debug\net9.0\Hospital.Repositories.pdb
+C:\Users\hashe\Desktop\Hospital-Management-System\Hospital\Hospital.Repositories\obj\Debug\net9.0\Hospital.Repositories.genruntimeconfig.cache
+C:\Users\hashe\Desktop\Hospital-Management-System\Hospital\Hospital.Repositories\obj\Debug\net9.0\ref\Hospital.Repositories.dll

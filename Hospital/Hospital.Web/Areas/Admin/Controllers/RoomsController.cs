@@ -51,15 +51,16 @@ namespace Hospital.Web.Areas.Admin.Controllers
             return RedirectToAction("Index");
         }
 
-
-
-
         public IActionResult Delete(int id)
         {
             _room.DeleteRoom(id);
             return RedirectToAction("Index");
         }
 
+        public IActionResult Details(int id)
+        {
+            return View(_room.GetRoomById(id));
+        }
 
     }
 }
